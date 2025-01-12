@@ -55,6 +55,7 @@ body {
   padding: 10px 30px;
   text-transform: uppercase;
   transition: background-color 0.3s ease;
+  margin-bottom: 1rem;
 }
 
 .generator-btn:hover {
@@ -71,4 +72,9 @@ body {
   padding: 15px 25px;
   text-align: center;
   width: 100%;
+}
+
+span {
+  font-size: small;
+  padding-top: 1rem;
 }
